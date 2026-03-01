@@ -1,0 +1,35 @@
+{
+  "invoice_number": "INV-2024-001",
+  "invoice_date": "2024-02-12",
+  "due_date": "2024-02-26",
+  "vendor": {
+    "name": "ABC Technologies",
+    "address": "123 Business Road",
+    "email": "contact@abctech.com",
+    "phone": "+91 9876543210"
+  },
+  "bill_to": {
+    "name": "XYZ Solutions",
+    "address": "456 Client Street"
+  },
+  "currency": "INR",
+  "line_items": [
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 5000,
+      "total": 10000
+    },
+    {
+      "description": "Hosting",
+      "quantity": 1,
+      "unit_price": 2000,
+      "total": 2000
+    }
+  ],
+  "subtotal": 12000,
+  "tax": 2160,
+  "discount": null,
+  "total": 14160,
+  "payment_terms": null
+}

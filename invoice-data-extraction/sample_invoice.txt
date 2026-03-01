@@ -1,0 +1,21 @@
+Invoice Number: INV-2024-001
+Invoice Date: 12/02/2024
+Due Date: 26/02/2024
+
+Vendor:
+ABC Technologies
+123 Business Road
+Email: contact@abctech.com
+Phone: +91 9876543210
+
+Bill To:
+XYZ Solutions
+456 Client Street
+
+Item Description     Qty    Unit Price    Total
+Web Development      2      ₹5000         ₹10000
+Hosting              1      ₹2000         ₹2000
+
+Subtotal: ₹12000
+GST (18%): ₹2160
+Total: ₹14160
